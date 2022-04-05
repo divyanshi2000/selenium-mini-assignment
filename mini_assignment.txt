@@ -1,0 +1,82 @@
+                                                 Mini Assignment
+
+Problem 1 – Write down the locators for below web elements.
+Write 1 relative xpath, and 1 CSS selector and 1 locator from id / classname / name / tagname / link text for Below Web elements
+
+
+Flipkart Login:
+XPath: //*[@id="container"]/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a
+
+Locator: _28p97w
+
+Selector: #container > div > div._1kfTjk > div._1rH5Jn > div._2Xfa2_ > div.go_DOp._2errNR > div > div > div > a
+
+Cart:
+XPath: //*[@id="container"]/div/div[1]/div[1]/div[2]/div[5]/div/div/a
+
+Locator: V3C5bO
+
+Selector: #container > div > div._1kfTjk > div._1rH5Jn > div._2Xfa2_ > div:nth-child(5) > div > div > a > span
+
+Flipkart Logo:
+XPath: //*[@id="container"]/div/div[1]/div[1]/div[2]/div[1]
+
+Locator: _3qX0zy
+
+Selector: #container > div > div._1kfTjk > div._1rH5Jn > div._2Xfa2_ > div._3_C9Hx > div > a:nth-child(1) > img
+
+Travel:
+XPath: //*[@id="container"]/div/div[2]/div/div/div[8]/a/div[1]/div/img
+
+Locator: eFQ30H
+
+Selector: #container > div > div._331-kn._2tvxW > div > div > div:nth-child(8) > a > div._1mkliO > div > img
+
+
+One Way Trip:
+XPath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[1]/div/div/label[1]/div[2]/div
+
+Locator: _1XFPmK
+
+Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._3--Dt3 > div > div > label._2Fn-Ln._3L7Pww > div._2jIO64._3Y-Z5B > div
+
+
+Travel Search Button:
+XPath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/button/span
+
+Locator: _2KpZ6l _1QYQF8 _3dESVI
+
+Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > button
+
+
+From:
+XPath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[1]/div[1]/div[1]/div[1]/input
+
+Locator: _1w3ZZo _1YBGQV _2EjOJB lZd1T6 _2vegSu _2mFmU7
+
+Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._3REAgv > div:nth-child(1) > div.GTbXbG > div._3qBKP_._1Jqgld > input
+
+
+To:
+Xpath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[1]/div[3]/div[1]/div[1]/input
+
+Locator: _1w3ZZo _1YBGQV _2EjOJB lZd1T6 _2dqBfU _2mFmU7
+
+Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._3REAgv > div:nth-child(3) > div.GTbXbG > div._3qBKP_._1Jqgld > input
+
+
+Depart On:
+XPath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[2]/div[2]/div/input
+
+Locator: _1w3ZZo _2gKfhi _2mFmU7
+
+Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._1SzMWX._1Bv2QP > div:nth-child(2) > div > input
+
+
+Return On:
+XPath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[2]/div[3]/div[1]/input
+
+Locator: _1w3ZZo _2gKfhi _2mFmU7
+
+Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._1SzMWX._1Bv2QP > div:nth-child(3) > div.zzPDhz._1Jqgld > input
+
